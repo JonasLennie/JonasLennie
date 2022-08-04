@@ -6,7 +6,7 @@ I'm Jonas Lennie, a passionate Computer Science student at UCL. I prioritise pro
 
 You can get in touch with me through my email, [contact@jlennie.uk](mailto:contact@jlennie.uk), on my [LinkedIn](linkedin.com/in/jlennie), or by looking at [my website](jlennie.uk).
 
-Here are the repositories you can look at:
+## Here are the repositories you can look at:
 -	[**jlennieuk**](https://github.com/JonasLennie/jlennieuk) - The source code for my personal website
 -	[**distributed-systems**](https://github.com/JonasLennie/distributedSystems) - Some models I've built while learning about distributed systems
 -	[**leetcode**](https://github.com/JonasLennie/leetcode) - Code from a number of Leetcode problems I've solved
