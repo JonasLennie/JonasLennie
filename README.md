@@ -4,7 +4,7 @@ Hi! Welcome to my GitHub, thanks for visiting! I have a few projects for you to 
 
 I'm Jonas Lennie, a passionate Computer Science student at UCL. I prioritise producing clean and well tested code that is easy to read and maintain. I'm a fast learner and very self-motivated, with an interest in Distributed Systems and Computer Networks.
 
-You can get in touch with me through my email, [contact@jlennie.uk](mailto:contact@jlennie.uk), on my [LinkedIn](linkedin.com/in/jlennie), or by looking at [my website](jlennie.uk).
+You can get in touch with me through my email, [contact@jlennie.uk](mailto:contact@jlennie.uk), on my [LinkedIn](https://linkedin.com/in/jlennie), or by looking at [my website](https://jlennie.uk).
 
 ## Here are the repositories you can look at:
 -	[**jlennieuk**](https://github.com/JonasLennie/jlennieuk) - The source code for my personal website
