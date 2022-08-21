@@ -8,7 +8,7 @@ You can get in touch with me through my email, [contact@jlennie.uk](mailto:conta
 
 ## Here are the repositories you can look at:
 -	[**jlennieuk**](https://github.com/JonasLennie/jlennieuk) - The source code for my personal website
--	[**distributed-systems**](https://github.com/JonasLennie/distributedSystems) - Some models I've built while learning about distributed systems
+-	[**distributed-systems**](https://github.com/JonasLennie/distributed-systems) - Some models I've built while learning about distributed systems
 -	[**leetcode**](https://github.com/JonasLennie/leetcode) - Code from a number of Leetcode problems I've solved
 - [**BedTransfer**](https://github.com/JonasLennie/bedtransfer) - A project to manage beds in hospitals
 - [**algorithms**](https://github.com/JonasLennie/algorithms) - Some code related to common algorithms; linked lists, sorting algorithms and all that
